@@ -1,0 +1,15 @@
+Privacy Policy for Envy Bot
+--------------------------------------
+
+1. Information Collected
+We collect your Discord user ID and your inputs of position and styles while using the bot. 
+This information is used solely to provide the bot’s functionality.
+
+2. Data Usage
+Data is not shared with third parties and is stored temporarily during bot sessions.
+
+3. Your Rights
+Data is automatically deleted when the current session of the command ends.
+
+4. Changes to Policy
+We may update this policy from time to time. Continued use of the bot constitutes acceptance.
